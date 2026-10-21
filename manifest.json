@@ -1,0 +1,28 @@
+{
+  "id": "./",
+  "name": "حساباتي الشخصية",
+  "short_name": "حساباتي",
+  "description": "دفتر مالي شخصي محلي للدخل والمصروفات والادخار والديون والمشاريع",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f6fa",
+  "theme_color": "#15294b",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
